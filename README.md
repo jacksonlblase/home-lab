@@ -4,9 +4,9 @@ Just learning how to apply technical foundations.
 ## Area of Focus
 - Network configuration and troubleshooting
 - System logging and security monitoring
-- Alert triage and investigation
+- Alert triage and evidence-based investigation
 - Detection testing and validation
-- Technical documentation and reporting
+- Clear technical documentation and reporting
 ## Project Reports
 1. PC Build
 
