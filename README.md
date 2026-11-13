@@ -12,18 +12,17 @@ Just learning how to apply technical foundations.
 
 Designed and assembled a custom Windows 11 Pro workstation to support cybersecurity training, virtualization, technical projects, and daily computing. This report documents hardware selection, component compatibility, physical assembly, UEFI configuration, operating system installation, driver troubleshooting, security settings, and thermal validation.
 
-3. Home Lab Configuration
+2. Home Lab Configuration
 
 Built and configured a personal cybersecurity monitoring environment using Oracle VirtualBox, Ubuntu Server, Wazuh, Splunk, Sysmon, Nmap, and Wireshark. This report covers virtual networking, Linux server administration, endpoint log collection, security monitoring integration, network scanning, troubleshooting, and validation of the completed environment.
 
 Key Skills: Virtualization, Network Configuration, Linux Administration, Security Monitoring, Log Collection, Network Analysis, Troubleshooting
 
-5. SOC Investigation #1
+3. SOC Investigation #1
 
 Conducted a structured security investigation involving encoded PowerShell execution, temporary file creation, and an internal TCP connection. Correlated endpoint events, Wazuh alerts, Splunk searches, file evidence, and Wireshark packet captures to determine the nature and scope of the observed activity. The investigation identified authorized, benign activity, assessed detection accuracy, documented appropriate response decisions, and verified case closure.
 
 Key Skills: SOC Investigation, Alert Triage, Incident Analysis, Log Correlation, PowerShell Analysis, Network Traffic Analysis, Evidence Preservation, Technical Reporting
-
 ## Lab Overview
 The cybersecurity home lab operates on a custom-built Windows 11 Pro workstation running Oracle VirtualBox. An Ubuntu Server virtual machine hosts the Wazuh security monitoring platform, while the Windows workstation generates endpoint telemetry through Sysmon and the Wazuh agent.
 
