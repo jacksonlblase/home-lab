@@ -1,6 +1,6 @@
 # home-lab
 Home lab projects and reports focused on security monitoring, networking, troubleshooting, and incident investigation.
-It all begins with building a PC.
+Just learning how to apply technical things.
 ## Area of Focus
 - Network configuration and troubleshooting
 - System logging and security monitoring
